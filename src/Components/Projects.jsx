@@ -10,9 +10,7 @@ function Projects() {
             <Card title="project 1" desc="React + Tailwind project"/>
             <Card title="Project 2" desc="API integration app" />
             <Card title="Project 3" desc="Portfolio website" />
-            <Card title="Project 4" desc="Todo app" />
-            <Card title="Project 5" desc="Dashboard UI" />
-            <Card title="Project 6" desc="E-commerce UI" />
+           
         </div>
     </div>
   );
