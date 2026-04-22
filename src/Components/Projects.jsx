@@ -10,7 +10,6 @@ function Projects() {
             <Card title="project 1" desc="React + Tailwind project"/>
             <Card title="Project 2" desc="API integration app" />
             <Card title="Project 3" desc="Portfolio website" />
-           
         </div>
     </div>
   );
